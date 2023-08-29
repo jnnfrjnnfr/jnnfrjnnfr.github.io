@@ -7,5 +7,5 @@ This portfolio comprises the projects I completed during my full stack developme
 # Contents
 
 index.html: My first webpage
-ball.html: Simulates ball movement and uses click events
+
   
